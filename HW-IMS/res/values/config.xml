@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="config_ims_package">com.huawei.ims</string>
-	<bool name="config_dynamic_bind_ims">true</bool>
 	<bool name="config_carrier_volte_available">true</bool>
+	<bool name="config_carrier_volte_tty_supported">true</bool>
+	<bool name="config_carrier_vt_available">true</bool>
+	<bool name="config_carrier_wfc_ims_available">true</bool>
 	<bool name="config_device_volte_available">true</bool>
+	<bool name="config_device_vt_available">true</bool>
 	<bool name="config_device_wfc_ims_available">true</bool>
+	<string name="config_ims_package">com.huawei.ims</string>
+	<string name="config_ims_mmtel_package">com.huawei.ims</string>
+	<string name="config_ims_rcs_package">com.huawei.ims</string>
+	<string name="config_ims_package_override_string">com.huawei.ims</string>
+	<string name="config_ims_mmtel_package_override_string">com.huawei.ims</string>
+	<string name="config_ims_rcs_package_override_string">com.huawei.ims</string>
 </resources>

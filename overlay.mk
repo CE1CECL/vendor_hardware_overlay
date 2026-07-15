@@ -8,6 +8,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-SystemUI-FalseLocks \
 	treble-overlay-Telephony-LTE \
 	treble-overlay-alldocube-xneo \
+	treble-overlay-aosp-ims \
 	treble-overlay-asus-rogphone \
 	treble-overlay-asus-zenfone5 \
 	treble-overlay-asus-zenfone5-10 \
@@ -29,6 +30,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-duoqin-qin3ultra-systemui \
 	treble-overlay-duoqin-qinf21pro \
 	treble-overlay-essential-ph_1 \
+	treble-overlay-floss-ims \
 	treble-overlay-fairphone-fp3 \
 	treble-overlay-highpriomisc \
 	treble-overlay-htc-exodus1 \
@@ -308,6 +310,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-z3q \
 	treble-overlay-sec-ims \
 	treble-overlay-sharp-s2 \
+	treble-overlay-slsi-ims \
 	treble-overlay-sony-J9110 \
 	treble-overlay-sony-SO-03L \
 	treble-overlay-sony-XZ2 \
@@ -339,6 +342,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-tecno-spark10pro \
 	treble-overlay-tecno-spark5 \
 	treble-overlay-tecno-spark6 \
+	treble-overlay-telephony-aosp-ims \
 	treble-overlay-telephony-caf-ims \
 	treble-overlay-telephony-floss-ims \
 	treble-overlay-telephony-hw-ims \

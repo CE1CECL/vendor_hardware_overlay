@@ -7,10 +7,10 @@
 	<bool name="config_device_volte_available">true</bool>
 	<bool name="config_device_vt_available">true</bool>
 	<bool name="config_device_wfc_ims_available">true</bool>
-	<string name="config_ims_package">com.mediatek.ims</string>
-	<string name="config_ims_mmtel_package">com.mediatek.ims</string>
-	<string name="config_ims_rcs_package">com.mediatek.ims</string>
-	<string name="config_ims_package_override_string">com.mediatek.ims</string>
-	<string name="config_ims_mmtel_package_override_string">com.mediatek.ims</string>
-	<string name="config_ims_rcs_package_override_string">com.mediatek.ims</string>
+	<string name="config_ims_package">com.android.imsstack</string>
+	<string name="config_ims_mmtel_package">com.android.imsstack</string>
+	<string name="config_ims_rcs_package">com.android.imsstack</string>
+	<string name="config_ims_package_override_string">com.android.imsstack</string>
+	<string name="config_ims_mmtel_package_override_string">com.android.imsstack</string>
+	<string name="config_ims_rcs_package_override_string">com.android.imsstack</string>
 </resources>

@@ -5,6 +5,6 @@
         <overlay android:targetPackage="android"
                 android:requiredSystemPropertyName="persist.sys.phh.ims.sec"
                 android:requiredSystemPropertyValue="true"
-		android:priority="182"
+		android:priority="79"
 		android:isStatic="true" />
 </manifest>
